@@ -1,0 +1,22 @@
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.csprojAssemblyReference.cache
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.AssemblyInfoInputs.cache
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.AssemblyInfo.cs
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.deps.json
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.runtimeconfig.json
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.runtimeconfig.dev.json
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.dll
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.pdb
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.dll
+C:\Users\s530473\Documents\44663\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.pdb
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.csprojAssemblyReference.cache
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.AssemblyInfoInputs.cache
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.AssemblyInfo.cs
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.dll
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\obj\Debug\netcoreapp2.2\CalorieCalculator.pdb
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.deps.json
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.runtimeconfig.json
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.runtimeconfig.dev.json
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.dll
+C:\Users\s530473\Documents\Spring-2019\44663 C#.Net\p1\CalorieCalculator\bin\Debug\netcoreapp2.2\CalorieCalculator.pdb
