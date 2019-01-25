@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s530473\\Documents\\Spring-2019\\44663 C#.Net\\p1\\CalorieCalculator\\CalorieCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\s530473\\Documents\\Spring-2019\\44663 C#.Net\\p1\\SubwayCost-Estimator\\CalorieCalculator.csproj",
       "projectName": "CalorieCalculator",
-      "projectPath": "C:\\Users\\s530473\\Documents\\Spring-2019\\44663 C#.Net\\p1\\CalorieCalculator\\CalorieCalculator.csproj",
+      "projectPath": "C:\\Users\\s530473\\Documents\\Spring-2019\\44663 C#.Net\\p1\\SubwayCost-Estimator\\CalorieCalculator.csproj",
       "packagesPath": "C:\\Users\\s530473\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s530473\\Documents\\Spring-2019\\44663 C#.Net\\p1\\CalorieCalculator\\obj\\",
+      "outputPath": "C:\\Users\\s530473\\Documents\\Spring-2019\\44663 C#.Net\\p1\\SubwayCost-Estimator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
